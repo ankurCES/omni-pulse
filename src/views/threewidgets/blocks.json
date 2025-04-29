@@ -1,0 +1,580 @@
+{
+  "nodes": [
+    {
+      "id": "1a3643af-64ad-4cb6-94f5-6a17b41a3dd7",
+      "type": "article",
+      "label": "World Briefing | Europe: Germany: Sofa Imprisons Man",
+      "content": "Kenzingen (Germany) man is trapped for several hours in his sofa bed when it unexpectly closes; neighbors respond to his shouts and call police (S)"
+    },
+    {
+      "id": "349c726e-9fda-43ec-8f4c-98e3cbad3f59",
+      "type": "location",
+      "label": "Germany",
+      "content": "Germany"
+    },
+    {
+      "id": "ccee60bd-3507-457e-8985-38f59ece9ef0",
+      "type": "location",
+      "label": "KENZINGEN (GERMANY)",
+      "content": "KENZINGEN (GERMANY)"
+    },
+    {
+      "id": "994af8c2-4235-431f-8207-75d8e6823f92",
+      "type": "subject",
+      "label": "Accidents and Safety",
+      "content": "Accidents and Safety"
+    },
+    {
+      "id": "06bdbac9-2759-4f56-ab76-40aff111d575",
+      "type": "subject",
+      "label": "Beds and Bedding",
+      "content": "Beds and Bedding"
+    },
+    {
+      "id": "47ea2083-0365-47cf-b186-cedefc2afd1f",
+      "type": "subject",
+      "label": "Rescues",
+      "content": "Rescues"
+    },
+    {
+      "id": "0c53f5ae-935d-4406-9777-29ca2013e0e3",
+      "type": "article",
+      "label": "World Briefing: Europe",
+      "content": "BELGIUM: 7 Guilty In Stowaway Deaths; THE HAGUE: Court Confirms Argentine'S Selection; GERMANY: Sofa Imprisons Man;."
+    },
+    {
+      "id": "abef13e1-70dd-4c98-b97d-73a3b31b5b70",
+      "type": "location",
+      "label": "Belgium",
+      "content": "Belgium"
+    },
+    {
+      "id": "1bb74bd2-d374-4207-af87-069c152a7ed7",
+      "type": "location",
+      "label": "Hague (Netherlands)",
+      "content": "Hague (Netherlands)"
+    },
+    {
+      "id": "f25aaf0c-5aae-48ca-8790-b7e6bbc16422",
+      "type": "article",
+      "label": "On Other Side of the World, Little to Do but Offer Prayers",
+      "content": "Sweden may have suffered more than any European nation from tsunami disaster in South Asia; estimated 20,000 Swedes were in Thailand for year-end vacations, and 1,500 of them are unaccounted for; also missing are 900 from Norway, 1,000 from Germany and 1,200 from Switzerland; photo (M)"
+    },
+    {
+      "id": "fe60797f-2a8a-43cd-af1c-df16f6701b00",
+      "type": "location",
+      "label": "Thailand",
+      "content": "Thailand"
+    },
+    {
+      "id": "2110b912-2dfa-4959-b7e7-9f38c0835993",
+      "type": "location",
+      "label": "Far East, South and Southeast Asia and Pacific Areas",
+      "content": "Far East, South and Southeast Asia and Pacific Areas"
+    },
+    {
+      "id": "5c233cce-f2aa-41ad-98f9-60e0061f5134",
+      "type": "location",
+      "label": "Norway",
+      "content": "Norway"
+    },
+    {
+      "id": "adb3b614-8a6c-4673-a373-2797ce4d1f27",
+      "type": "location",
+      "label": "Sweden",
+      "content": "Sweden"
+    },
+    {
+      "id": "80318080-4cfc-4055-8008-f173c6e409e1",
+      "type": "location",
+      "label": "Switzerland",
+      "content": "Switzerland"
+    },
+    {
+      "id": "f9654553-050d-42dc-9d87-31083848644a",
+      "type": "subject",
+      "label": "TIDAL WAVES",
+      "content": "TIDAL WAVES"
+    },
+    {
+      "id": "aa9b8c1e-ae73-4841-8def-31277c3c04f9",
+      "type": "subject",
+      "label": "Earthquakes",
+      "content": "Earthquakes"
+    },
+    {
+      "id": "c332b436-8b54-4916-844c-3786887f0a0e",
+      "type": "article",
+      "label": "Water Lifts Its Awful Veil on Landscape of Destruction",
+      "content": "Floodwater begins to recede in Bywater and Lower Ninth Ward neighborhoods of New Orleans, exposing details of devastation inflicted by Hurricane Katrina on city and some of its poorest residents; water had reached nearly to roofs of many homes and has left mere skeletons of houses; some houses have fallen down and personal effects washed away; Mayor Ray Nagin says as many as half of all homes may have to be demolished; says outside experts, including some from Holland and Germany, are helping analyze redevelopment options and what type of levee system is needed; factors in making decisions noted; photos (M)"
+    },
+    {
+      "id": "616248f0-3406-468e-8d35-af5406a60323",
+      "type": "location",
+      "label": "New Orleans (La)",
+      "content": "New Orleans (La)"
+    },
+    {
+      "id": "1fa92d67-6154-44bd-8631-195387c2f9f0",
+      "type": "location",
+      "label": "Netherlands",
+      "content": "Netherlands"
+    },
+    {
+      "id": "d7bf28f2-ffe9-4c7d-8c4b-b07e3183257e",
+      "type": "location",
+      "label": "Louisiana",
+      "content": "Louisiana"
+    },
+    {
+      "id": "f24b01e2-2bb1-4701-ac23-195d280542f7",
+      "type": "person",
+      "label": "Nagin, C Ray",
+      "content": "Nagin, C Ray"
+    },
+    {
+      "id": "54b30455-2113-4be8-8930-c1a2cc49bfb6",
+      "type": "subject",
+      "label": "HOUSING",
+      "content": "HOUSING"
+    },
+    {
+      "id": "f6dc8ce2-d419-43e3-8e3a-e1e9f77c638c",
+      "type": "subject",
+      "label": "KATRINA (STORM)",
+      "content": "KATRINA (STORM)"
+    },
+    {
+      "id": "ef97da40-d514-4a90-a9b7-2634bc274606",
+      "type": "subject",
+      "label": "LEVEES",
+      "content": "LEVEES"
+    },
+    {
+      "id": "7e3dd55e-1b37-4866-ade7-1c884b72e368",
+      "type": "subject",
+      "label": "Floods",
+      "content": "Floods"
+    },
+    {
+      "id": "49aa71f0-e2e1-497a-adf5-35c491abe296",
+      "type": "subject",
+      "label": "Hurricanes and Tropical Storms",
+      "content": "Hurricanes and Tropical Storms"
+    },
+    {
+      "id": "f807cfaa-2023-4893-936f-ae410b3417c4",
+      "type": "article",
+      "label": "After Dark, East German Chic",
+      "content": "Eric Pfanner travel article on bars, restaurants, clubs and other nightlife in Berlin, Germany; photo; map (L)"
+    },
+    {
+      "id": "f44d5433-379c-4dfe-bf73-479f1fbb2941",
+      "type": "location",
+      "label": "Berlin (Germany)",
+      "content": "Berlin (Germany)"
+    },
+    {
+      "id": "2fcc10c0-9ca9-497c-a921-db2e5b551ee6",
+      "type": "subject",
+      "label": "BARS",
+      "content": "BARS"
+    },
+    {
+      "id": "c6f00c60-4c2c-4424-a389-bb1950eaff96",
+      "type": "subject",
+      "label": "Restaurants",
+      "content": "Restaurants"
+    },
+    {
+      "id": "e723c556-3d32-47c2-9240-578caddb97fe",
+      "type": "subject",
+      "label": "Travel and Vacations",
+      "content": "Travel and Vacations"
+    },
+    {
+      "id": "e9efbe1d-0ed6-41fa-b5da-f67e524a3147",
+      "type": "subject",
+      "label": "NIGHTCLUBS AND CABARETS",
+      "content": "NIGHTCLUBS AND CABARETS"
+    },
+    {
+      "id": "69f4b3cd-a5a1-44d2-ab18-eb9812b18113",
+      "type": "article",
+      "label": "ART/ARCHITECTURE; Pictures at the Hotel Armageddon",
+      "content": "Richard B Woodward reviews Janet Borden Gallery exhibit of Andreas Magdanz photographs of Dienstelle Marienthal, West Germany's underground nuclear shelter; photos (M)"
+    },
+    {
+      "id": "60f020e3-3dda-4198-9d38-d8485e51826e",
+      "type": "person",
+      "label": "MAGDANZ, ANDREAS",
+      "content": "MAGDANZ, ANDREAS"
+    },
+    {
+      "id": "0ea75655-f2f4-4293-9089-316bd9beec83",
+      "type": "subject",
+      "label": "ATOMIC WEAPONS",
+      "content": "ATOMIC WEAPONS"
+    },
+    {
+      "id": "dd3a8d46-ed89-4e0c-bbf3-e9c76dce67a4",
+      "type": "subject",
+      "label": "DIENSTELLE MARIENTHAL (GERMANY)",
+      "content": "DIENSTELLE MARIENTHAL (GERMANY)"
+    },
+    {
+      "id": "7b4e042e-2a3a-41aa-a6d5-28624f4e0c45",
+      "type": "subject",
+      "label": "Reviews",
+      "content": "Reviews"
+    },
+    {
+      "id": "f4212f88-7d70-40ec-be05-232e5ff4a44a",
+      "type": "subject",
+      "label": "Photography",
+      "content": "Photography"
+    },
+    {
+      "id": "8daf5251-507f-463f-ab8e-9ef8eddc4798",
+      "type": "article",
+      "label": "In Chic New Berlin, Ugly Is Way Cool",
+      "content": "Article on platenbaus--prefabricated, high-rise, Communist-era apartment buildings in former East Berlin that have been colonized by artists; city has housing glut and plenty of new construction, but hip young West Germans are clamoring for plattenbau apartments as well as for authentic Communist-era furnishings and accessories; photos (M)"
+    },
+    {
+      "id": "904b22db-bad9-4e67-afb8-3d2f86248a23",
+      "type": "article",
+      "label": "Retreats That Renew in Old Ways",
+      "content": "TUSCANY"
+    },
+    {
+      "id": "67ada738-746e-47ba-8574-9801359016f7",
+      "type": "location",
+      "label": "La Tour",
+      "content": "La Tour"
+    },
+    {
+      "id": "eb7c45f1-cc19-4f97-8f27-2681a7cb1215",
+      "type": "location",
+      "label": "Lyon",
+      "content": "Lyon"
+    },
+    {
+      "id": "27548dd7-60cb-4754-ba88-aa3431790293",
+      "type": "location",
+      "label": "France",
+      "content": "France"
+    },
+    {
+      "id": "f228b3ac-8177-45f8-9511-d00ec4270443",
+      "type": "location",
+      "label": "Japan",
+      "content": "Japan"
+    },
+    {
+      "id": "7734daf2-85a7-4377-a3e5-51dd4f07e69a",
+      "type": "location",
+      "label": "Niigata",
+      "content": "Niigata"
+    },
+    {
+      "id": "c4b91b45-1d2b-457e-abe5-6f0982bfe860",
+      "type": "location",
+      "label": "Tokyo",
+      "content": "Tokyo"
+    },
+    {
+      "id": "2d1eee76-4425-4cb1-acaa-76f148a526b6",
+      "type": "location",
+      "label": "east Berlin",
+      "content": "east Berlin"
+    },
+    {
+      "id": "4ded17ea-7392-44ad-8ef1-a3a339c4e955",
+      "type": "location",
+      "label": "BERLIN",
+      "content": "BERLIN"
+    },
+    {
+      "id": "2e729089-b003-45c0-81fc-504c7ea3ddf8",
+      "type": "location",
+      "label": "Munich",
+      "content": "Munich"
+    },
+    {
+      "id": "9bff936d-f187-41d4-8253-12aaad96bd65",
+      "type": "organization",
+      "label": "ACT",
+      "content": "ACT"
+    },
+    {
+      "id": "8e94c2a1-5e06-4fad-a454-f225bb6b68db",
+      "type": "organization",
+      "label": "Bureau",
+      "content": "Bureau"
+    },
+    {
+      "id": "3eba7dae-068b-43b3-83fe-b0219da61ac0",
+      "type": "person",
+      "label": "Hemingway, Ernest",
+      "content": "Hemingway, Ernest"
+    },
+    {
+      "id": "997d9f14-420d-4ff5-842d-6261c1cb2c73",
+      "type": "subject",
+      "label": "Telephones and Telecommunications",
+      "content": "Telephones and Telecommunications"
+    },
+    {
+      "id": "5d94fc44-1738-4766-ae4c-c859008c2f03",
+      "type": "subject",
+      "label": "APPAREL",
+      "content": "APPAREL"
+    },
+    {
+      "id": "cfcac23d-48e5-4364-a8e3-07bc2d00f1e9",
+      "type": "subject",
+      "label": "RETAIL STORES AND TRADE",
+      "content": "RETAIL STORES AND TRADE"
+    },
+    {
+      "id": "a04943fb-1c70-4fe9-96d4-13f872c17bdf",
+      "type": "subject",
+      "label": "Cooking and Cookbooks",
+      "content": "Cooking and Cookbooks"
+    }
+  ],
+  "links": [
+    {
+      "source": "1a3643af-64ad-4cb6-94f5-6a17b41a3dd7",
+      "target": "349c726e-9fda-43ec-8f4c-98e3cbad3f59"
+    },
+    {
+      "source": "1a3643af-64ad-4cb6-94f5-6a17b41a3dd7",
+      "target": "ccee60bd-3507-457e-8985-38f59ece9ef0"
+    },
+    {
+      "source": "1a3643af-64ad-4cb6-94f5-6a17b41a3dd7",
+      "target": "994af8c2-4235-431f-8207-75d8e6823f92"
+    },
+    {
+      "source": "1a3643af-64ad-4cb6-94f5-6a17b41a3dd7",
+      "target": "06bdbac9-2759-4f56-ab76-40aff111d575"
+    },
+    {
+      "source": "1a3643af-64ad-4cb6-94f5-6a17b41a3dd7",
+      "target": "47ea2083-0365-47cf-b186-cedefc2afd1f"
+    },
+    {
+      "source": "0c53f5ae-935d-4406-9777-29ca2013e0e3",
+      "target": "abef13e1-70dd-4c98-b97d-73a3b31b5b70"
+    },
+    {
+      "source": "0c53f5ae-935d-4406-9777-29ca2013e0e3",
+      "target": "1bb74bd2-d374-4207-af87-069c152a7ed7"
+    },
+    {
+      "source": "0c53f5ae-935d-4406-9777-29ca2013e0e3",
+      "target": "349c726e-9fda-43ec-8f4c-98e3cbad3f59"
+    },
+    {
+      "source": "f25aaf0c-5aae-48ca-8790-b7e6bbc16422",
+      "target": "349c726e-9fda-43ec-8f4c-98e3cbad3f59"
+    },
+    {
+      "source": "f25aaf0c-5aae-48ca-8790-b7e6bbc16422",
+      "target": "fe60797f-2a8a-43cd-af1c-df16f6701b00"
+    },
+    {
+      "source": "f25aaf0c-5aae-48ca-8790-b7e6bbc16422",
+      "target": "2110b912-2dfa-4959-b7e7-9f38c0835993"
+    },
+    {
+      "source": "f25aaf0c-5aae-48ca-8790-b7e6bbc16422",
+      "target": "5c233cce-f2aa-41ad-98f9-60e0061f5134"
+    },
+    {
+      "source": "f25aaf0c-5aae-48ca-8790-b7e6bbc16422",
+      "target": "adb3b614-8a6c-4673-a373-2797ce4d1f27"
+    },
+    {
+      "source": "f25aaf0c-5aae-48ca-8790-b7e6bbc16422",
+      "target": "80318080-4cfc-4055-8008-f173c6e409e1"
+    },
+    {
+      "source": "f25aaf0c-5aae-48ca-8790-b7e6bbc16422",
+      "target": "f9654553-050d-42dc-9d87-31083848644a"
+    },
+    {
+      "source": "f25aaf0c-5aae-48ca-8790-b7e6bbc16422",
+      "target": "aa9b8c1e-ae73-4841-8def-31277c3c04f9"
+    },
+    {
+      "source": "c332b436-8b54-4916-844c-3786887f0a0e",
+      "target": "349c726e-9fda-43ec-8f4c-98e3cbad3f59"
+    },
+    {
+      "source": "c332b436-8b54-4916-844c-3786887f0a0e",
+      "target": "616248f0-3406-468e-8d35-af5406a60323"
+    },
+    {
+      "source": "c332b436-8b54-4916-844c-3786887f0a0e",
+      "target": "1fa92d67-6154-44bd-8631-195387c2f9f0"
+    },
+    {
+      "source": "c332b436-8b54-4916-844c-3786887f0a0e",
+      "target": "d7bf28f2-ffe9-4c7d-8c4b-b07e3183257e"
+    },
+    {
+      "source": "c332b436-8b54-4916-844c-3786887f0a0e",
+      "target": "f24b01e2-2bb1-4701-ac23-195d280542f7"
+    },
+    {
+      "source": "c332b436-8b54-4916-844c-3786887f0a0e",
+      "target": "54b30455-2113-4be8-8930-c1a2cc49bfb6"
+    },
+    {
+      "source": "c332b436-8b54-4916-844c-3786887f0a0e",
+      "target": "f6dc8ce2-d419-43e3-8e3a-e1e9f77c638c"
+    },
+    {
+      "source": "c332b436-8b54-4916-844c-3786887f0a0e",
+      "target": "ef97da40-d514-4a90-a9b7-2634bc274606"
+    },
+    {
+      "source": "c332b436-8b54-4916-844c-3786887f0a0e",
+      "target": "7e3dd55e-1b37-4866-ade7-1c884b72e368"
+    },
+    {
+      "source": "c332b436-8b54-4916-844c-3786887f0a0e",
+      "target": "49aa71f0-e2e1-497a-adf5-35c491abe296"
+    },
+    {
+      "source": "f807cfaa-2023-4893-936f-ae410b3417c4",
+      "target": "349c726e-9fda-43ec-8f4c-98e3cbad3f59"
+    },
+    {
+      "source": "f807cfaa-2023-4893-936f-ae410b3417c4",
+      "target": "f44d5433-379c-4dfe-bf73-479f1fbb2941"
+    },
+    {
+      "source": "f807cfaa-2023-4893-936f-ae410b3417c4",
+      "target": "2fcc10c0-9ca9-497c-a921-db2e5b551ee6"
+    },
+    {
+      "source": "f807cfaa-2023-4893-936f-ae410b3417c4",
+      "target": "c6f00c60-4c2c-4424-a389-bb1950eaff96"
+    },
+    {
+      "source": "f807cfaa-2023-4893-936f-ae410b3417c4",
+      "target": "e723c556-3d32-47c2-9240-578caddb97fe"
+    },
+    {
+      "source": "f807cfaa-2023-4893-936f-ae410b3417c4",
+      "target": "e9efbe1d-0ed6-41fa-b5da-f67e524a3147"
+    },
+    {
+      "source": "69f4b3cd-a5a1-44d2-ab18-eb9812b18113",
+      "target": "349c726e-9fda-43ec-8f4c-98e3cbad3f59"
+    },
+    {
+      "source": "69f4b3cd-a5a1-44d2-ab18-eb9812b18113",
+      "target": "60f020e3-3dda-4198-9d38-d8485e51826e"
+    },
+    {
+      "source": "69f4b3cd-a5a1-44d2-ab18-eb9812b18113",
+      "target": "0ea75655-f2f4-4293-9089-316bd9beec83"
+    },
+    {
+      "source": "69f4b3cd-a5a1-44d2-ab18-eb9812b18113",
+      "target": "dd3a8d46-ed89-4e0c-bbf3-e9c76dce67a4"
+    },
+    {
+      "source": "69f4b3cd-a5a1-44d2-ab18-eb9812b18113",
+      "target": "7b4e042e-2a3a-41aa-a6d5-28624f4e0c45"
+    },
+    {
+      "source": "69f4b3cd-a5a1-44d2-ab18-eb9812b18113",
+      "target": "f4212f88-7d70-40ec-be05-232e5ff4a44a"
+    },
+    {
+      "source": "8daf5251-507f-463f-ab8e-9ef8eddc4798",
+      "target": "349c726e-9fda-43ec-8f4c-98e3cbad3f59"
+    },
+    {
+      "source": "8daf5251-507f-463f-ab8e-9ef8eddc4798",
+      "target": "f44d5433-379c-4dfe-bf73-479f1fbb2941"
+    },
+    {
+      "source": "8daf5251-507f-463f-ab8e-9ef8eddc4798",
+      "target": "54b30455-2113-4be8-8930-c1a2cc49bfb6"
+    },
+    {
+      "source": "904b22db-bad9-4e67-afb8-3d2f86248a23",
+      "target": "67ada738-746e-47ba-8574-9801359016f7"
+    },
+    {
+      "source": "904b22db-bad9-4e67-afb8-3d2f86248a23",
+      "target": "eb7c45f1-cc19-4f97-8f27-2681a7cb1215"
+    },
+    {
+      "source": "904b22db-bad9-4e67-afb8-3d2f86248a23",
+      "target": "27548dd7-60cb-4754-ba88-aa3431790293"
+    },
+    {
+      "source": "904b22db-bad9-4e67-afb8-3d2f86248a23",
+      "target": "f228b3ac-8177-45f8-9511-d00ec4270443"
+    },
+    {
+      "source": "904b22db-bad9-4e67-afb8-3d2f86248a23",
+      "target": "7734daf2-85a7-4377-a3e5-51dd4f07e69a"
+    },
+    {
+      "source": "904b22db-bad9-4e67-afb8-3d2f86248a23",
+      "target": "c4b91b45-1d2b-457e-abe5-6f0982bfe860"
+    },
+    {
+      "source": "904b22db-bad9-4e67-afb8-3d2f86248a23",
+      "target": "2d1eee76-4425-4cb1-acaa-76f148a526b6"
+    },
+    {
+      "source": "904b22db-bad9-4e67-afb8-3d2f86248a23",
+      "target": "4ded17ea-7392-44ad-8ef1-a3a339c4e955"
+    },
+    {
+      "source": "904b22db-bad9-4e67-afb8-3d2f86248a23",
+      "target": "2e729089-b003-45c0-81fc-504c7ea3ddf8"
+    },
+    {
+      "source": "904b22db-bad9-4e67-afb8-3d2f86248a23",
+      "target": "349c726e-9fda-43ec-8f4c-98e3cbad3f59"
+    },
+    {
+      "source": "904b22db-bad9-4e67-afb8-3d2f86248a23",
+      "target": "9bff936d-f187-41d4-8253-12aaad96bd65"
+    },
+    {
+      "source": "904b22db-bad9-4e67-afb8-3d2f86248a23",
+      "target": "8e94c2a1-5e06-4fad-a454-f225bb6b68db"
+    },
+    {
+      "source": "904b22db-bad9-4e67-afb8-3d2f86248a23",
+      "target": "3eba7dae-068b-43b3-83fe-b0219da61ac0"
+    },
+    {
+      "source": "904b22db-bad9-4e67-afb8-3d2f86248a23",
+      "target": "997d9f14-420d-4ff5-842d-6261c1cb2c73"
+    },
+    {
+      "source": "904b22db-bad9-4e67-afb8-3d2f86248a23",
+      "target": "5d94fc44-1738-4766-ae4c-c859008c2f03"
+    },
+    {
+      "source": "904b22db-bad9-4e67-afb8-3d2f86248a23",
+      "target": "cfcac23d-48e5-4364-a8e3-07bc2d00f1e9"
+    },
+    {
+      "source": "904b22db-bad9-4e67-afb8-3d2f86248a23",
+      "target": "a04943fb-1c70-4fe9-96d4-13f872c17bdf"
+    }
+  ]
+}

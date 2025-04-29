@@ -1,0 +1,629 @@
+{
+  "links": [
+    {
+      "relation": "MENTIONED_IN",
+      "source": "b0e1c9fa-7a79-4de4-be07-5544174b16c3",
+      "target": "abe66cf9-6ba3-4091-9edd-729e4e3a7bde"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "b0e1c9fa-7a79-4de4-be07-5544174b16c3",
+      "target": "17ced798-5ea1-48da-9caa-842bd66226c3"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "b0e1c9fa-7a79-4de4-be07-5544174b16c3",
+      "target": "6947d3cc-621b-4632-a5d0-932e5b6df812"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "b0e1c9fa-7a79-4de4-be07-5544174b16c3",
+      "target": "3ba5d473-692c-4267-8413-d9cef049251e"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "b0e1c9fa-7a79-4de4-be07-5544174b16c3",
+      "target": "3f92278e-022b-46ad-b99d-357947d268c9"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "b0e1c9fa-7a79-4de4-be07-5544174b16c3",
+      "target": "04482ccc-8403-40ac-8234-b12c05758e37"
+    },
+    {
+      "relation": "LOCATED_IN",
+      "source": "b0e1c9fa-7a79-4de4-be07-5544174b16c3",
+      "target": "55648976-76a0-4a62-ba25-e49319ffabe7"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "b0e1c9fa-7a79-4de4-be07-5544174b16c3",
+      "target": "39cd5795-3fae-4262-aa10-dbd0eb03bb2e"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "7e67bc54-3494-4630-bcd5-8c72994e81a9",
+      "target": "04482ccc-8403-40ac-8234-b12c05758e37"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "7e67bc54-3494-4630-bcd5-8c72994e81a9",
+      "target": "3f92278e-022b-46ad-b99d-357947d268c9"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "7e67bc54-3494-4630-bcd5-8c72994e81a9",
+      "target": "753e2578-c26e-4b1e-a505-7378c63f7312"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "7e67bc54-3494-4630-bcd5-8c72994e81a9",
+      "target": "abe66cf9-6ba3-4091-9edd-729e4e3a7bde"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "7e67bc54-3494-4630-bcd5-8c72994e81a9",
+      "target": "a558b4eb-abf3-4d20-9027-1d7dd73ec67f"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "4a34efb8-cb93-4e7a-b414-d415d8bfec0f",
+      "target": "04482ccc-8403-40ac-8234-b12c05758e37"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "4a34efb8-cb93-4e7a-b414-d415d8bfec0f",
+      "target": "9add5b44-8762-453e-86bd-5661eda66914"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "4a34efb8-cb93-4e7a-b414-d415d8bfec0f",
+      "target": "3f92278e-022b-46ad-b99d-357947d268c9"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "4a34efb8-cb93-4e7a-b414-d415d8bfec0f",
+      "target": "db9ab31a-d993-4764-b36f-48d942da52b7"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "4a34efb8-cb93-4e7a-b414-d415d8bfec0f",
+      "target": "3ba5d473-692c-4267-8413-d9cef049251e"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "4a34efb8-cb93-4e7a-b414-d415d8bfec0f",
+      "target": "51559ca5-6190-4d7d-b4ea-e47301e9279a"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "4a34efb8-cb93-4e7a-b414-d415d8bfec0f",
+      "target": "39cd5795-3fae-4262-aa10-dbd0eb03bb2e"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "9d74f743-e398-4013-a6de-d94a87a56701",
+      "target": "04482ccc-8403-40ac-8234-b12c05758e37"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "9d74f743-e398-4013-a6de-d94a87a56701",
+      "target": "3ba5d473-692c-4267-8413-d9cef049251e"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "9d74f743-e398-4013-a6de-d94a87a56701",
+      "target": "f5a8b1a6-1c60-43cc-b2a7-79252a9d5e33"
+    },
+    {
+      "relation": "LOCATED_IN",
+      "source": "9d74f743-e398-4013-a6de-d94a87a56701",
+      "target": "842d17fc-5679-4fe2-963b-85bff9e2ec61"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "ab396640-82a4-4168-a5d9-2fe911733962",
+      "target": "3c4f62c8-bdf1-43c9-99de-79c02c7b1593"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "ab396640-82a4-4168-a5d9-2fe911733962",
+      "target": "77f40760-9717-460b-88ac-bf232cd7ee11"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "ab396640-82a4-4168-a5d9-2fe911733962",
+      "target": "9add5b44-8762-453e-86bd-5661eda66914"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "ab396640-82a4-4168-a5d9-2fe911733962",
+      "target": "30d8c8a2-a0d9-4da1-9afc-e93c70f1ae9c"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "ab396640-82a4-4168-a5d9-2fe911733962",
+      "target": "abe66cf9-6ba3-4091-9edd-729e4e3a7bde"
+    },
+    {
+      "relation": "LOCATED_IN",
+      "source": "ab396640-82a4-4168-a5d9-2fe911733962",
+      "target": "989d1078-2acf-44af-bba9-c7408a446979"
+    },
+    {
+      "relation": "LOCATED_IN",
+      "source": "ab396640-82a4-4168-a5d9-2fe911733962",
+      "target": "842d17fc-5679-4fe2-963b-85bff9e2ec61"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "ab396640-82a4-4168-a5d9-2fe911733962",
+      "target": "903e0192-35f7-475f-a887-f5f70e5459b4"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "ab396640-82a4-4168-a5d9-2fe911733962",
+      "target": "04482ccc-8403-40ac-8234-b12c05758e37"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "9499a084-8005-4b2d-90b0-9c8873106164",
+      "target": "04482ccc-8403-40ac-8234-b12c05758e37"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "9499a084-8005-4b2d-90b0-9c8873106164",
+      "target": "db9ab31a-d993-4764-b36f-48d942da52b7"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "9499a084-8005-4b2d-90b0-9c8873106164",
+      "target": "3f92278e-022b-46ad-b99d-357947d268c9"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "9499a084-8005-4b2d-90b0-9c8873106164",
+      "target": "3ba5d473-692c-4267-8413-d9cef049251e"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "9499a084-8005-4b2d-90b0-9c8873106164",
+      "target": "9add5b44-8762-453e-86bd-5661eda66914"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "9499a084-8005-4b2d-90b0-9c8873106164",
+      "target": "39cd5795-3fae-4262-aa10-dbd0eb03bb2e"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "9499a084-8005-4b2d-90b0-9c8873106164",
+      "target": "f5a8b1a6-1c60-43cc-b2a7-79252a9d5e33"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "9499a084-8005-4b2d-90b0-9c8873106164",
+      "target": "51559ca5-6190-4d7d-b4ea-e47301e9279a"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "9499a084-8005-4b2d-90b0-9c8873106164",
+      "target": "f39dacb8-aac0-4303-bf77-76042468631d"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "9499a084-8005-4b2d-90b0-9c8873106164",
+      "target": "abe66cf9-6ba3-4091-9edd-729e4e3a7bde"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "9499a084-8005-4b2d-90b0-9c8873106164",
+      "target": "0dc3399c-7c00-411f-be2a-7617601ba147"
+    },
+    {
+      "relation": "LOCATED_IN",
+      "source": "9499a084-8005-4b2d-90b0-9c8873106164",
+      "target": "cc804233-6c07-4de0-adfa-7bbdc7cbf451"
+    },
+    {
+      "relation": "LOCATED_IN",
+      "source": "9499a084-8005-4b2d-90b0-9c8873106164",
+      "target": "55648976-76a0-4a62-ba25-e49319ffabe7"
+    },
+    {
+      "relation": "LOCATED_IN",
+      "source": "9499a084-8005-4b2d-90b0-9c8873106164",
+      "target": "f3273fac-d11d-48f4-9403-b74a8d6376d1"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "69a84314-d36b-48f2-822f-97836ef9be5f",
+      "target": "abe66cf9-6ba3-4091-9edd-729e4e3a7bde"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "69a84314-d36b-48f2-822f-97836ef9be5f",
+      "target": "04482ccc-8403-40ac-8234-b12c05758e37"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "69a84314-d36b-48f2-822f-97836ef9be5f",
+      "target": "9add5b44-8762-453e-86bd-5661eda66914"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "69a84314-d36b-48f2-822f-97836ef9be5f",
+      "target": "3c4f62c8-bdf1-43c9-99de-79c02c7b1593"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "69a84314-d36b-48f2-822f-97836ef9be5f",
+      "target": "3ba5d473-692c-4267-8413-d9cef049251e"
+    },
+    {
+      "relation": "LOCATED_IN",
+      "source": "69a84314-d36b-48f2-822f-97836ef9be5f",
+      "target": "55648976-76a0-4a62-ba25-e49319ffabe7"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "69a84314-d36b-48f2-822f-97836ef9be5f",
+      "target": "3f92278e-022b-46ad-b99d-357947d268c9"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "8060fd2f-10a4-460e-a466-9a6659a2177c",
+      "target": "04482ccc-8403-40ac-8234-b12c05758e37"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "8060fd2f-10a4-460e-a466-9a6659a2177c",
+      "target": "39cd5795-3fae-4262-aa10-dbd0eb03bb2e"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "8060fd2f-10a4-460e-a466-9a6659a2177c",
+      "target": "b80a3d76-93b2-4f88-8d38-063017a24485"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "8060fd2f-10a4-460e-a466-9a6659a2177c",
+      "target": "3ba5d473-692c-4267-8413-d9cef049251e"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "8060fd2f-10a4-460e-a466-9a6659a2177c",
+      "target": "3c4f62c8-bdf1-43c9-99de-79c02c7b1593"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "8060fd2f-10a4-460e-a466-9a6659a2177c",
+      "target": "9add5b44-8762-453e-86bd-5661eda66914"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "9bea2eea-b462-4c84-abbe-4fda05a9cfc5",
+      "target": "abe66cf9-6ba3-4091-9edd-729e4e3a7bde"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "9bea2eea-b462-4c84-abbe-4fda05a9cfc5",
+      "target": "3f92278e-022b-46ad-b99d-357947d268c9"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "9bea2eea-b462-4c84-abbe-4fda05a9cfc5",
+      "target": "db9ab31a-d993-4764-b36f-48d942da52b7"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "9bea2eea-b462-4c84-abbe-4fda05a9cfc5",
+      "target": "3ba5d473-692c-4267-8413-d9cef049251e"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "9bea2eea-b462-4c84-abbe-4fda05a9cfc5",
+      "target": "3c4f62c8-bdf1-43c9-99de-79c02c7b1593"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "9bea2eea-b462-4c84-abbe-4fda05a9cfc5",
+      "target": "9add5b44-8762-453e-86bd-5661eda66914"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "9bea2eea-b462-4c84-abbe-4fda05a9cfc5",
+      "target": "04482ccc-8403-40ac-8234-b12c05758e37"
+    },
+    {
+      "relation": "LOCATED_IN",
+      "source": "9bea2eea-b462-4c84-abbe-4fda05a9cfc5",
+      "target": "cc804233-6c07-4de0-adfa-7bbdc7cbf451"
+    },
+    {
+      "relation": "LOCATED_IN",
+      "source": "9bea2eea-b462-4c84-abbe-4fda05a9cfc5",
+      "target": "55648976-76a0-4a62-ba25-e49319ffabe7"
+    },
+    {
+      "relation": "LOCATED_IN",
+      "source": "9bea2eea-b462-4c84-abbe-4fda05a9cfc5",
+      "target": "f3273fac-d11d-48f4-9403-b74a8d6376d1"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "9bea2eea-b462-4c84-abbe-4fda05a9cfc5",
+      "target": "c904399a-393b-48ae-9a89-1cbf07d63320"
+    },
+    {
+      "relation": "LOCATED_IN",
+      "source": "1cbbcad6-a170-4dbe-a539-3d22398ea983",
+      "target": "55648976-76a0-4a62-ba25-e49319ffabe7"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "1cbbcad6-a170-4dbe-a539-3d22398ea983",
+      "target": "abe66cf9-6ba3-4091-9edd-729e4e3a7bde"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "1cbbcad6-a170-4dbe-a539-3d22398ea983",
+      "target": "04482ccc-8403-40ac-8234-b12c05758e37"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "1cbbcad6-a170-4dbe-a539-3d22398ea983",
+      "target": "3f92278e-022b-46ad-b99d-357947d268c9"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "1cbbcad6-a170-4dbe-a539-3d22398ea983",
+      "target": "0da31569-36c1-414d-bc28-301c348a13f1"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "1cbbcad6-a170-4dbe-a539-3d22398ea983",
+      "target": "3ba5d473-692c-4267-8413-d9cef049251e"
+    },
+    {
+      "relation": "DESCRIBES",
+      "source": "1cbbcad6-a170-4dbe-a539-3d22398ea983",
+      "target": "3c4f62c8-bdf1-43c9-99de-79c02c7b1593"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "1cbbcad6-a170-4dbe-a539-3d22398ea983",
+      "target": "a0f42707-bb6a-414f-ad3d-a7f046d928f3"
+    }
+  ],
+  "nodes": [
+    {
+      "content": "Donald J. Trump plans to sharply expand his use of tariffs if he returns to power, risking disruption to the economy in an attempt to transform it.",
+      "id": "b0e1c9fa-7a79-4de4-be07-5544174b16c3",
+      "label": "A New Tax on Imports and a Split From China: Trump’s 2025 Trade Agenda",
+      "type": "article"
+    },
+    {
+      "content": "Trump, Donald J",
+      "id": "abe66cf9-6ba3-4091-9edd-729e4e3a7bde",
+      "label": "Trump, Donald J",
+      "type": "person"
+    },
+    {
+      "content": "Presidential Election of 2024",
+      "id": "17ced798-5ea1-48da-9caa-842bd66226c3",
+      "label": "Presidential Election of 2024",
+      "type": "subject"
+    },
+    {
+      "content": "Lighthizer, Robert E",
+      "id": "6947d3cc-621b-4632-a5d0-932e5b6df812",
+      "label": "Lighthizer, Robert E",
+      "type": "person"
+    },
+    {
+      "content": "United States Economy",
+      "id": "3ba5d473-692c-4267-8413-d9cef049251e",
+      "label": "United States Economy",
+      "type": "subject"
+    },
+    {
+      "content": "Customs (Tariff)",
+      "id": "3f92278e-022b-46ad-b99d-357947d268c9",
+      "label": "Customs (Tariff)",
+      "type": "subject"
+    },
+    {
+      "content": "International Trade and World Market",
+      "id": "04482ccc-8403-40ac-8234-b12c05758e37",
+      "label": "International Trade and World Market",
+      "type": "subject"
+    },
+    {
+      "content": "China",
+      "id": "55648976-76a0-4a62-ba25-e49319ffabe7",
+      "label": "China",
+      "type": "location"
+    },
+    {
+      "content": "Factories and Manufacturing",
+      "id": "39cd5795-3fae-4262-aa10-dbd0eb03bb2e",
+      "label": "Factories and Manufacturing",
+      "type": "subject"
+    },
+    {
+      "content": "The British government is hoping to reach an agreement with the United States to soften the economic blow British businesses are facing from higher tariffs.",
+      "id": "7e67bc54-3494-4630-bcd5-8c72994e81a9",
+      "label": "Britain Says It Will Not Alter Standards or Rush U.S. Trade Deal",
+      "type": "article"
+    },
+    {
+      "content": "International Relations",
+      "id": "753e2578-c26e-4b1e-a505-7378c63f7312",
+      "label": "International Relations",
+      "type": "subject"
+    },
+    {
+      "content": "Reeves, Rachel (1979- )",
+      "id": "a558b4eb-abf3-4d20-9027-1d7dd73ec67f",
+      "label": "Reeves, Rachel (1979- )",
+      "type": "person"
+    },
+    {
+      "content": "President Trump says that countries have been ripping off the United States for decades. There is some truth to that argument — but also a lot of hypocrisy.",
+      "id": "4a34efb8-cb93-4e7a-b414-d415d8bfec0f",
+      "label": "Trump Says Global Trade Is Unfair. Does He Have a Point?",
+      "type": "article"
+    },
+    {
+      "content": "United States Politics and Government",
+      "id": "9add5b44-8762-453e-86bd-5661eda66914",
+      "label": "United States Politics and Government",
+      "type": "subject"
+    },
+    {
+      "content": "Protectionism (Trade)",
+      "id": "db9ab31a-d993-4764-b36f-48d942da52b7",
+      "label": "Protectionism (Trade)",
+      "type": "subject"
+    },
+    {
+      "content": "Prices (Fares, Fees and Rates)",
+      "id": "51559ca5-6190-4d7d-b4ea-e47301e9279a",
+      "label": "Prices (Fares, Fees and Rates)",
+      "type": "subject"
+    },
+    {
+      "content": "A strong dollar helped drive an uptick in U.S. imports last year, while export growth remained modest.",
+      "id": "9d74f743-e398-4013-a6de-d94a87a56701",
+      "label": "U.S. Trade Deficit Hit Record in 2024 as Imports Surged",
+      "type": "article"
+    },
+    {
+      "content": "US Dollar (Currency)",
+      "id": "f5a8b1a6-1c60-43cc-b2a7-79252a9d5e33",
+      "label": "US Dollar (Currency)",
+      "type": "subject"
+    },
+    {
+      "content": "United States",
+      "id": "842d17fc-5679-4fe2-963b-85bff9e2ec61",
+      "label": "United States",
+      "type": "location"
+    },
+    {
+      "content": "The Saudi media reported that Crown Prince Mohammed bin Salman had spoken with President Trump, who made the kingdom the first stop on his first overseas presidential trip in 2017.",
+      "id": "ab396640-82a4-4168-a5d9-2fe911733962",
+      "label": "Saudi Arabia Says It Will Increase U.S. Trade and Investment by $600 Billion",
+      "type": "article"
+    },
+    {
+      "content": "United States International Relations",
+      "id": "3c4f62c8-bdf1-43c9-99de-79c02c7b1593",
+      "label": "United States International Relations",
+      "type": "subject"
+    },
+    {
+      "content": "Politics and Government",
+      "id": "77f40760-9717-460b-88ac-bf232cd7ee11",
+      "label": "Politics and Government",
+      "type": "subject"
+    },
+    {
+      "content": "Mohammed bin Salman (1985- )",
+      "id": "30d8c8a2-a0d9-4da1-9afc-e93c70f1ae9c",
+      "label": "Mohammed bin Salman (1985- )",
+      "type": "person"
+    },
+    {
+      "content": "Saudi Arabia",
+      "id": "989d1078-2acf-44af-bba9-c7408a446979",
+      "label": "Saudi Arabia",
+      "type": "location"
+    },
+    {
+      "content": "Foreign Investments",
+      "id": "903e0192-35f7-475f-a887-f5f70e5459b4",
+      "label": "Foreign Investments",
+      "type": "subject"
+    },
+    {
+      "content": "The trade deficit has long drawn the president’s ire. Now, he’s preparing to take it on again.",
+      "id": "9499a084-8005-4b2d-90b0-9c8873106164",
+      "label": "One Economic Number Has Vexed Trump for Decades",
+      "type": "article"
+    },
+    {
+      "content": "International Monetary Fund",
+      "id": "f39dacb8-aac0-4303-bf77-76042468631d",
+      "label": "International Monetary Fund",
+      "type": "organization"
+    },
+    {
+      "content": "European Union",
+      "id": "0dc3399c-7c00-411f-be2a-7617601ba147",
+      "label": "European Union",
+      "type": "organization"
+    },
+    {
+      "content": "Canada",
+      "id": "cc804233-6c07-4de0-adfa-7bbdc7cbf451",
+      "label": "Canada",
+      "type": "location"
+    },
+    {
+      "content": "Mexico",
+      "id": "f3273fac-d11d-48f4-9403-b74a8d6376d1",
+      "label": "Mexico",
+      "type": "location"
+    },
+    {
+      "content": "The president has railed against the trade deficit, but numbers from last year show that textbook economics caught up with some of his unorthodox economic policies.",
+      "id": "69a84314-d36b-48f2-822f-97836ef9be5f",
+      "label": "In Blow to Trump, America’s Trade Deficit in Goods Hits Record $891 Billion",
+      "type": "article"
+    },
+    {
+      "content": "The gap between what the United States imports and what it exports hit a record as more foreign goods came into the country.",
+      "id": "8060fd2f-10a4-460e-a466-9a6659a2177c",
+      "label": "America’s Trade Deficit Surged in 2022, Nearing $1 Trillion",
+      "type": "article"
+    },
+    {
+      "content": "Gross Domestic Product",
+      "id": "b80a3d76-93b2-4f88-8d38-063017a24485",
+      "label": "Gross Domestic Product",
+      "type": "subject"
+    },
+    {
+      "content": "The president-elect’s threat to hit Canada, Mexico and China with new tariffs is already rocking business and diplomatic relationships and could topple the trade pacts he signed in his first term.",
+      "id": "9bea2eea-b462-4c84-abbe-4fda05a9cfc5",
+      "label": "Tariff Threats Show Trump’s Commitment to Upending Global Trade",
+      "type": "article"
+    },
+    {
+      "content": "Supply Chain",
+      "id": "c904399a-393b-48ae-9a89-1cbf07d63320",
+      "label": "Supply Chain",
+      "type": "subject"
+    },
+    {
+      "content": "Though details are scarce, any peace that leaves higher American tariffs in place could continue to hurt China’s status as the world’s factory floor.",
+      "id": "1cbbcad6-a170-4dbe-a539-3d22398ea983",
+      "label": "A China-U.S. Trade Truce Could Enshrine a Global Economic Shift",
+      "type": "article"
+    },
+    {
+      "content": "Economic Conditions and Trends",
+      "id": "0da31569-36c1-414d-bc28-301c348a13f1",
+      "label": "Economic Conditions and Trends",
+      "type": "subject"
+    },
+    {
+      "content": "Group of Twenty",
+      "id": "a0f42707-bb6a-414f-ad3d-a7f046d928f3",
+      "label": "Group of Twenty",
+      "type": "organization"
+    }
+  ]
+}
