@@ -131,7 +131,7 @@ def analyze_graph_data_llm(query, filter_query, graph_data):
     if query and filter_query:
         relation_query = filter_query.split(":")[1]
         relation_type = filter_query.split(":")[0].split('.')[1]
-        question = "Describe the relation of {} and {} ?".format(query, relation_query)
+        question = "Describe the data, relations, impact & anything else that can be infered from the provided context?"
         return answer_question(question, graph_data)
     else:
         return ""

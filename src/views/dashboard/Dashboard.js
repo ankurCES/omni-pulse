@@ -209,6 +209,91 @@ const Dashboard = () => {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
+  const formatTextToHTMLNodes = (text) => {
+    const lines = text.split("\n");
+    const fragment = document.createDocumentFragment();
+
+    let currentList = null;
+    let listType = null;
+
+    const closeList = () => {
+      if (currentList && listType) {
+        fragment.appendChild(currentList);
+        currentList = null;
+        listType = null;
+      }
+    };
+
+    const convertBold = (line) => {
+      const parts = line.split(/(\*\*.*?\*\*)/g);
+      return parts.map((part) => {
+        if (part.startsWith("**") && part.endsWith("**")) {
+          const strong = document.createElement("strong");
+          strong.textContent = part.slice(2, -2);
+          return strong;
+        } else {
+          return document.createTextNode(part);
+        }
+      });
+    };
+
+    lines.forEach((rawLine, index) => {
+      const line = rawLine.trim();
+
+      // Ordered list
+      if (/^\d+\.\s+/.test(line)) {
+        const content = line.replace(/^\d+\.\s+/, "");
+        if (listType !== "ol") {
+          closeList();
+          currentList = document.createElement("ol");
+          listType = "ol";
+        }
+        const li = document.createElement("li");
+        convertBold(content).forEach((node) => li.appendChild(node));
+        currentList.appendChild(li);
+      }
+      // Unordered list
+      else if (/^[-*]\s+/.test(line)) {
+        const content = line.replace(/^[-*]\s+/, "");
+        if (listType !== "ul") {
+          closeList();
+          currentList = document.createElement("ul");
+          listType = "ul";
+        }
+        const li = document.createElement("li");
+        convertBold(content).forEach((node) => li.appendChild(node));
+        currentList.appendChild(li);
+      }
+      // Blank line → line break
+      else if (line === "") {
+        closeList();
+        fragment.appendChild(document.createElement("br"));
+      }
+      // Paragraph
+      else {
+        closeList();
+        const p = document.createElement("p");
+        convertBold(line).forEach((node) => p.appendChild(node));
+        fragment.appendChild(p);
+      }
+    });
+
+    // Close any open list
+    closeList();
+
+    return fragment;
+  };
+
+  const fragmentToString = (fragment) => {
+    if (!(fragment instanceof DocumentFragment)) {
+      throw new Error("Input must be a DocumentFragment");
+    }
+
+    const container = document.createElement("div");
+    container.appendChild(fragment.cloneNode(true));
+    return container.innerHTML;
+  };
+
   const searchNewsArticles = async () => {
     const query = document.getElementById("searchQueryInput").value;
     const filter = document.getElementById("relationQuery").value;
@@ -226,11 +311,16 @@ const Dashboard = () => {
       // console.log(data);
       setArticles(data.graph);
       setKeywordList(data.keywords);
-      setAnalysis(data.analysis);
+      let formatted_html_text = fragmentToString(
+        formatTextToHTMLNodes(data.analysis)
+      );
+      console.log(formatted_html_text);
+      setAnalysis(formatted_html_text);
       setLoading(false);
     }
   };
 
+  //Default search - Not important
   useEffect(() => {
     const fetchNewsArticles = async () => {
       const response = await fetch(
@@ -316,7 +406,9 @@ const Dashboard = () => {
                 </CRow>
                 <CCollapse visible={!loading && analysis.length > 0}>
                   <CCard className="mt-3">
-                    <CCardBody>{analysis}</CCardBody>
+                    <CCardBody>
+                      <div dangerouslySetInnerHTML={{ __html: analysis }} />
+                    </CCardBody>
                   </CCard>
                 </CCollapse>
               </CForm>
